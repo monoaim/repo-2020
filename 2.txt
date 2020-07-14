@@ -1,2 +1,3 @@
 edit file 2.txt
 line 2
+test commit 2 of branch develop
